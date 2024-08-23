@@ -14,28 +14,28 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['18294868853', '𝐃𝐢𝐨𝐧𝐞𝐢𝐛𝐢', true],
-  ['595972157130', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫', true],
-  ['51950148255', '𝙅𝙤𝙨𝙚 𝙈𝙤𝙙𝙨', true]];
+  ['593979133620', 'Ricardo', true],
+  ['593979133620', 'Ricardo', true],
+  ['51950148255', 'Anthony', true]];
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['18294868853', '595972157130', '51950148255', '', '']
+global.mods = ['593979133620', '593979133620', '51950148255', '', '']
 
-global.suittag = ['595972157130']
+global.suittag = ['593979133620']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = `ᘜOKᑌ-ᗷᒪ̀AᑕK-ᗷOT-ᗰᗪ-ᒪITᗴ🪼`
-global.author = `♾━━━━━━━━\n𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞\n𝑰𝒗𝒂𝒏\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 𝑮𝒐𝒌𝒖-𝑩𝒍𝒂𝒄𝒌-𝑩𝒐𝒕-𝑴𝑫-𝑳𝒊𝒕𝒆`;
-global.wm = '𝗚𝗼𝗸𝘂-𝗕𝗹𝗮𝗰𝗸-𝗕𝗼𝘁-𝗠𝗗-𝗟𝗶𝘁𝗲';
-global.titulowm = '𝖦𝗈𝗄𝗎-𝖡𝗅𝖺𝖼𝗄-𝖡𝗈𝗍-𝖬𝖣-𝖫𝗂𝗍𝖾';
-global.titulowm2 = `ＧＯＫＵ-ＢＬＡＣＫ-ＢＯＴ-ＭＤ-ＬＩＴＥ`
-global.igfg = 'ᥫᩣɢᴏᴋᴜ-ʙʟᴀᴄᴋ-ʙᴏᴛ-ᴍᴅ-ʟɪᴛᴇ🪐'
-global.botname = 'ꍌꄲꀘ꒤-ꃳ꒒ꋬꉔꀘ-ꃳꄲ꓄-ꂵ꒯-꒒꒐꓄ꏂ 🪻'
-global.dev = 'gσкυ-вℓα¢к-вσт-м∂-ℓιтє🐦‍⬛'
-global.textbot = '𝐆𝐎𝐊𝐔-𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃-𝐋𝐈𝐓𝐄'
-global.gt = '𝔾𝕆𝕂𝕌-𝔹𝕃𝔸ℂ𝕂-𝔹𝕆𝕋-𝕄𝔻-𝕃𝕀𝕋𝔼';
-global.namechannel = 'ꍌꄲꀘ꒤-ꃳ꒒ꋬꉔꀘ-ꃳꄲ꓄-ꂵ꒯-꒒꒐꓄ꏂ'
+global.packsticker = `♾Proyecto R.A`
+global.packname = `♾Proyecto R.A`
+global.author = `♾Proyecto R.A`;
+global.wm = '';
+global.titulowm = '♾Proyecto R.A';
+global.titulowm2 = '♾Proyecto R.A'
+global.igfg = ''
+global.botname = ''.A''
+global.dev = ''.A''
+global.textbot = '𝐆𝐎𝐊𝐔'
+global.gt = '𝔾𝕆𝕂𝕌';
+global.namechannel = ''
 global.vs = '3.0.1'
 
 
@@ -88,18 +88,18 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BLACKLITE', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`𝙂𝙊𝙆𝙐-𝘽𝙇𝘼𝘾𝙆-𝘽𝙊𝙏-𝙈𝘿-𝙇𝙄𝙏𝙀💥`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `𝐆𝐎𝐊𝐔-𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃-𝐋𝐈𝐓𝐄🌦`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`𝙂𝙊𝙆𝙐`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `𝐆𝐎𝐊𝐔`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/GD0al1LF7Ux2dmPF0fDFYZ' //Grupo Oficial De Goku-Black-Bot-MD-Lite
-global.gp1 = 'https://chat.whatsapp.com/GD0al1LF7Ux2dmPF0fDFYZ' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/LJKcR8QBJgu37bVFWuhRVn'//
-global.comunidad1 = 'https://chat.whatsapp.com/GPEtINYPyIB6a6S55ZJcAO' //Comunidad Megumin
-global.channel = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h' //Canal Oficial
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
-global.md = 'https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite' //Github Oficial del bot
-global.correo = 'noisebot@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.gp4 = '' //Grupo Oficial De Goku-Black-Bot-MD-Lite
+global.gp1 = '' //Grupo 
+global.gp2 = ''//
+global.comunidad1 = '' //Comunidad Megumin
+global.channel = '' //Canal Oficial
+global.yt = '' //Canal De Youtube
+global.md = '' //Github Oficial del bot
+global.correo = ''
+global.cn ='';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -114,7 +114,7 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMegumin - Bot`;
+global.wm2 = `${dia} ${fecha}\nProyecto - Bot`;
 global.nomorown = '5351524614';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
