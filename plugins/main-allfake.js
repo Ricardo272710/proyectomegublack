@@ -109,6 +109,6 @@ global.icono = [
 'https://telegra.ph/file/e05334d1e187123884d66.jpg',
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: , }, externalAdReply: { showAdAttribution: true, title: textbot, body: 'El Bot más God💣', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: , mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = {  }, }, }}
 
 export default handler
